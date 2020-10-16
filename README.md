@@ -1,6 +1,6 @@
 # graphql-ws-playground
 
-Tiny koa GraphQL implementation using Webpack
+GraphQL WebSocket Playground using [graphql-transport-ws](https://github.com/enisdenjo/graphql-transport-ws)
 
 ## How to run
 
